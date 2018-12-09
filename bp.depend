@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1542646200 source:/home/lechuga/Documentos/bplus/bp/main.c
+	"bp.h"
+	"file.h"
+	"char.h"
+
+1542663083 /home/lechuga/Documentos/bplus/bp/bp.h
+	<time.h>
+	<errno.h>
+	<string.h>
+	<locale.h>
+	<stdlib.h>
+	<stdio.h>
+
+1542396496 /home/lechuga/Documentos/bplus/bp/character.h
+	<stdlib.h>
+
+1542396272 /home/lechuga/Documentos/bplus/bp/character.c
+	"character.h"
+
+1542650354 source:/home/lechuga/Documentos/bplus/bp/file.c
+	"file.h"
+	<stdlib.h>
+	<stdio.h>
+	"bp.h"
+
+1542424647 /home/lechuga/Documentos/bplus/bp/file.h
+	"bp.h"
+
+1542398631 source:/home/lechuga/Documentos/bplus/bp/char.c
+	"char.h"
+
+1542397839 /home/lechuga/Documentos/bplus/bp/char.h
+	"bp.h"
+
+1542662945 source:/home/lechuga/Documentos/bplus/bp/bp.c
+	"bp.h"
+
+1542662945 source:/home/lechuga/Documentos/teste/bp (1)/bp/bp.c
+	"bp.h"
+
+1542667942 /home/lechuga/Documentos/teste/bp (1)/bp/bp.h
+	<time.h>
+	<errno.h>
+	<locale.h>
+	<stdlib.h>
+	<stdio.h>
+	"char.h"
+
+1542667925 /home/lechuga/Documentos/teste/bp (1)/bp/char.h
+	<string.h>
+
+1542667975 source:/home/lechuga/Documentos/teste/bp (1)/bp/char.c
+	"bp.h"
+
+1542667743 source:/home/lechuga/Documentos/teste/bp (1)/bp/file.c
+	"file.h"
+	<stdlib.h>
+	<stdio.h>
+	"bp.h"
+
+1542667757 /home/lechuga/Documentos/teste/bp (1)/bp/file.h
+	"bp.h"
+
+1542667886 source:/home/lechuga/Documentos/teste/bp (1)/bp/main.c
+	"bp.h"
+	"file.h"
+
