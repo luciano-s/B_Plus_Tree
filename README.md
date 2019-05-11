@@ -1,1 +1,1 @@
-B_Plus_Tree
+This work was made for Data Structures II. The program works with two files: tree.csv and data.csv. The data.csv is a file with all the states and cities of Brazil and a code associated. The tree.csv is a representation of a B+ tree. The program reads the data.csv and tree.csv. Then it generates a binary file of them, and you can search one item or many item, giving a interval of IDs.
